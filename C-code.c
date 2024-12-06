@@ -4,10 +4,10 @@
 #include <time.h>
 #include "MQTTClient.h"
 
-#define ADDRESS           "tcp://192.168.0.156:1883"
+#define ADDRESS           "tcp://192.168.0.108:1883"
 #define QOS               0
 #define CLIENTID          "FLANDRIEN"
-#define SUB_TOPIC         "VIZO/ERROR_IN"
+#define SUB_TOPIC         "P1/MD8"
 #define PUB_TOPIC         "VIZO/ERROR_SEND"
 #define TOPIC_LEN         120
 #define TIMEOUT           100L
@@ -36,28 +36,39 @@ int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *m
     char *payload = message->payload;
     char *token_str;
     char time_buffer[20];
-    long double data;
+    long double totaal_gasverbruik;
 
     token_str = strtok(payload, ";");
-    char *device = token_str;
+    char *datum_tijd_stroom = token_str;
     token_str = strtok(NULL, ";");
-    char *code = token_str;
+    char *tarief_indicator = token_str;
     token_str = strtok(NULL, ";");
-    data = strtold(token_str, NULL);
+    char *actueel_stroomverbruik = token_str;
+    token_str = strtok(NULL, ";");
+    char *actueel_spanning = token_str;
+    token_str = strtok(NULL, ";");
+    char *totaal_dagverbruik = token_str;
+    token_str = strtok(NULL, ";");
+    char *totaal_nachtverbruik = token_str;
+    token_str = strtok(NULL, ";");
+    char *totaal_dagopbrengst = token_str;
+    token_str = strtok(NULL, ";");
+    char *totaal_nachtopbrengst = token_str;
+    token_str = strtok(NULL, ";");
+    char *datum_tijd_gas = token_str;
+    token_str = strtok(NULL, ";");
+    totaal_gasverbruik = strtold(token_str, NULL);
     
-    message_count++;
-    sum_data += data;
-    if (data > max_data) max_data = data;
-    if (data < min_data) min_data = data;
+
 
     // Get the current time and format it
     get_current_time_str(time_buffer, sizeof(time_buffer));
 
     // Print incoming message details to terminal on the same line
-    printf("Received message #%d at %s - Device: %s, Code: %s, Data: %Lf\n", message_count, time_buffer, device, code, data);
+    printf("Received message at %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
 
     char error_out[ERR_OUT_LEN];
-    sprintf(error_out, "%s Device: %s, Code: %s, Data: %Lf", time_buffer, device, code, data);
+    sprintf(error_out, "%s Device: %s, Code: %s, Data: %Lf", time_buffer, totaal_dagopbrengst, totaal_dagverbruik, totaal_gasverbruik);
     
     log_to_file(error_out);
 
@@ -74,7 +85,7 @@ int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *m
     MQTTClient_publishMessage(client, PUB_TOPIC, &pubmsg, &token);
     printf("Publishing to topic %s\n", PUB_TOPIC);
 
-    if (message_count == UITSLAG_NA) {
+    if (tarief_indicator == "0") {
         long double avg_data = sum_data / message_count;
         sprintf(error_out, "Summary - Avg: %Lf, Max: %Lf, Min: %Lf", avg_data, max_data, min_data);
         
