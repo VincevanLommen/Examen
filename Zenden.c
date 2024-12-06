@@ -7,7 +7,7 @@
 
 #define DEBUG
 
-#define FILE_NAME		"/home/vizo/Examen/DigitaleMeter_test.txt"
+#define FILE_NAME		"/home/vizo/Examen/DigitaleMeter_241119.txt"
 #define MAX_LINE_LEN	2048
 
 #define ADDRESS     "tcp://192.168.0.108:1883"  // Local RP MQTT broker address

@@ -94,32 +94,7 @@ int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *m
         StartNachtVerbruik = atoi(totaal_nachtverbruik);
         StartNachtOpbrengst = atoi(totaal_nachtopbrengst);
         //StartGas = atoi(totaal_gasverbruik);
-        return(StartTijd, StartDagVerbruik);
-        dag = atoi(datum_tijd_gas);
-    }
 
-     int stop = atoi(tarief_indicator);
-     // printf("stop: %d\n",stop);
-
-       if (dag == dag1
-    {
-        
-        StartTijd = atoi(datum_tijd_gas);
-        StartDagVerbruik = atoi(totaal_dagverbruik);
-        StartDagOpbrengst = atoi(totaal_dagopbrengst);
-        StartNachtVerbruik = atoi(totaal_nachtverbruik);
-        StartNachtOpbrengst = atoi(totaal_nachtopbrengst);
-        //StartGas = atoi(totaal_gasverbruik);
-        return(StartTijd, StartDagVerbruik);
-        dag = atoi(datum_tijd_gas);
-    }
-    
-     
-
-    
-
-
-    if (stop == 0) {
         printf("=====================================================\n");
         printf("+ Electriciteit- en gas verbruik - totalen per dag  +\n");
         printf("=====================================================\n");
@@ -131,6 +106,28 @@ int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *m
         printf("Nacht   Totaal opbrengst    = %d kWh\n", StartNachtOpbrengst);
         //printf("Gas     Totaal verbruik     = %d m3",StartGas)
         printf("-------------------------------------------------------------\n");
+    }
+
+/*  DEZE fucntie zou de data van een dag moeten printen
+    if (atoi(datum_tijd_gas)!=StartTijd)
+    {
+        printf("Dag - %d\n", StartTijd);
+        printf("Dag     Totaal verbruik     = %d kWh\n", StartDagVerbruik-atoi(totaal_dagverbruik));
+        printf("Dag     Totaal opbrengst    = %d kWh\n", StartDagOpbrengst-atoi(totaal_dagopbrengst));
+        printf("Nacht   Totaal verbruik     = %d kWh\n", StartNachtVerbruik-atoi(totaal_nachtverbruik));
+        printf("Nacht   Totaal opbrengst    = %d kWh\n", StartNachtOpbrengst-atoi(totaal_nachtopbrengst));
+        //printf("Gas     Totaal verbruik     = %d m3",StartGas)
+        printf("-------------------------------------------------------------\n"); 
+    }
+
+*/
+     int stop = atoi(tarief_indicator);
+     // printf("stop: %d\n",stop);
+    
+
+
+    if (stop == 0) {
+ 
         printf("Totalen\n");
         printf("-------------------------------------------------------------\n");
         //printf("%d\n",daglog);

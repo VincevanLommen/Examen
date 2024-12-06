@@ -26,3 +26,869 @@ Ontvangen om 22.11.24-22:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtve
 
 Ontvangen om 00.00.00-00:00:00 - Totaal dagverbruik: 0000, Totaal nachtverbruik: 000000, Totale dagopbrengst: 0000.000000, Totale nachtopbrengst: 000.000000, Totaal gasverbruik: 0.000000
 
+Ontvangen om 22.11.24-22:00:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.858887, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:01:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.875000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:02:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.914062, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:03:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.953125, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:04:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.993164, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:05:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.033203, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:06:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.073242, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:07:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.113770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:08:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.155762, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:09:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.196777, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:10:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.237793, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:11:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.279785, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:12:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.319824, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:13:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.360840, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:14:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.401855, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:15:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.441895, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:16:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.479980, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:17:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.488770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:18:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.500000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:19:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.512207, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.523926, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.891113
+
+Ontvangen om 00.00.00-00:00:00 - Totaal dagverbruik: 0000, Totaal nachtverbruik: 000000, Totale dagopbrengst: 0000.000000, Totale nachtopbrengst: 000.000000, Totaal gasverbruik: 0.000000
+
+Ontvangen om 22.11.24-22:00:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.858887, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:01:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.875000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:02:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.914062, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:03:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.953125, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:04:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.993164, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:05:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.033203, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:06:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.073242, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:07:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.113770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:08:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.155762, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:09:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.196777, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:10:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.237793, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:11:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.279785, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:12:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.319824, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:13:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.360840, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:14:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.401855, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:15:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.441895, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:16:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.479980, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:17:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.488770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:18:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.500000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:19:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.512207, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.523926, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.891113
+
+Ontvangen om 00.00.00-00:00:00 - Totaal dagverbruik: 0000, Totaal nachtverbruik: 000000, Totale dagopbrengst: 0000.000000, Totale nachtopbrengst: 000.000000, Totaal gasverbruik: 0.000000
+
+Ontvangen om 22.11.24-22:00:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.858887, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:01:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.875000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:02:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.914062, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:03:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.953125, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:04:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.993164, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:05:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.033203, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:06:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.073242, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:07:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.113770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:08:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.155762, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:09:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.196777, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:10:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.237793, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:11:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.279785, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:12:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.319824, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:13:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.360840, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:14:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.401855, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:15:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.441895, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:16:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.479980, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:17:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.488770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:18:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.500000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:19:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.512207, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.523926, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.891113
+
+Ontvangen om 00.00.00-00:00:00 - Totaal dagverbruik: 0000, Totaal nachtverbruik: 000000, Totale dagopbrengst: 0000.000000, Totale nachtopbrengst: 000.000000, Totaal gasverbruik: 0.000000
+
+Ontvangen om 22.11.24-22:00:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.858887, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:01:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.875000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:02:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.914062, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:03:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.953125, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:04:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.993164, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:05:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.033203, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:06:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.073242, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:07:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.113770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:08:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.155762, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:09:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.196777, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:10:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.237793, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:11:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.279785, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:12:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.319824, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:13:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.360840, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:14:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.401855, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:15:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.441895, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:16:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.479980, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:17:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.488770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:18:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.500000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:19:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.512207, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.523926, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.891113
+
+Ontvangen om 00.00.00-00:00:00 - Totaal dagverbruik: 0000, Totaal nachtverbruik: 000000, Totale dagopbrengst: 0000.000000, Totale nachtopbrengst: 000.000000, Totaal gasverbruik: 0.000000
+
+Ontvangen om 22.11.24-22:00:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.858887, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:01:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.875000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:02:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.914062, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:03:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.953125, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:04:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.993164, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:05:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.033203, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:06:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.073242, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:07:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.113770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:08:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.155762, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:09:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.196777, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:10:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.237793, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:11:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.279785, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:12:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.319824, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:13:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.360840, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:14:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.401855, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:15:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.441895, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:16:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.479980, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:17:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.488770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:18:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.500000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:19:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.512207, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.523926, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.891113
+
+Ontvangen om 00.00.00-00:00:00 - Totaal dagverbruik: 0000, Totaal nachtverbruik: 000000, Totale dagopbrengst: 0000.000000, Totale nachtopbrengst: 000.000000, Totaal gasverbruik: 0.000000
+
+Ontvangen om 22.11.24-22:00:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.858887, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:01:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.875000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:02:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.914062, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:03:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.953125, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:04:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.993164, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:05:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.033203, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:06:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.073242, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:07:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.113770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:08:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.155762, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:09:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.196777, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.667969
+
+Ontvangen om 22.11.24-22:10:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.237793, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:11:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.279785, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:12:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.319824, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:13:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.360840, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:14:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.401855, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:15:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.441895, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:16:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.479980, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:17:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.488770, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:18:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.500000, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:19:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.512207, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.523926, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.891113
+
+Ontvangen om 00.00.00-00:00:00 - Totaal dagverbruik: 0000, Totaal nachtverbruik: 000000, Totale dagopbrengst: 0000.000000, Totale nachtopbrengst: 000.000000, Totaal gasverbruik: 0.000000
+
+Ontvangen om 20.11.24-20:30:00 - Totaal dagverbruik: 6351.401855, Totaal nachtverbruik: 6683.149902, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6198.240234
+
+Ontvangen om 20.11.24-20:40:00 - Totaal dagverbruik: 6351.497070, Totaal nachtverbruik: 6683.149902, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6198.470215
+
+Ontvangen om 20.11.24-20:50:00 - Totaal dagverbruik: 6351.583984, Totaal nachtverbruik: 6683.149902, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6198.470215
+
+Ontvangen om 20.11.24-21:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.149902, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6198.470215
+
+Ontvangen om 20.11.24-21:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.252930, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6198.859863
+
+Ontvangen om 20.11.24-21:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.353027, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-21:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.433105, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-21:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.516113, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-21:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.602051, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-22:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.699219, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-22:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.791016, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-22:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.842773, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-22:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.878906, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-22:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.919922, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-22:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.951172, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-23:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6683.991211, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-23:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.027832, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-23:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.073242, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-23:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.119141, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-23:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.154785, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 20.11.24-23:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.182129, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-00:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.212891, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-00:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.255859, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-00:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.290039, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-00:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.326172, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-00:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.359863, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-00:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.393066, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-01:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.432129, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-01:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.459961, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-01:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.490234, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-01:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.523926, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-01:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.559082, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-01:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.604980, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-02:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.645020, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-02:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.676758, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-02:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.703125, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-02:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.732910, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-02:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.778809, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-02:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.812012, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-03:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.847168, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-03:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.882812, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-03:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.910156, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-03:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.946777, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-03:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6684.979004, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-03:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6685.014160, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-04:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6685.047852, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-04:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6685.083984, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-04:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6685.125977, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-04:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6685.161133, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.275879
+
+Ontvangen om 21.11.24-04:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6685.198242, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.334961
+
+Ontvangen om 21.11.24-04:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6685.491211, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6199.831055
+
+Ontvangen om 21.11.24-05:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6686.269043, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6200.282227
+
+Ontvangen om 21.11.24-05:10:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6687.046875, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6200.942871
+
+Ontvangen om 21.11.24-05:20:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6687.827148, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6201.082031
+
+Ontvangen om 21.11.24-05:30:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6688.595215, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6201.136230
+
+Ontvangen om 21.11.24-05:40:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6689.362793, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6201.596191
+
+Ontvangen om 21.11.24-05:50:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6690.134766, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6202.014160
+
+Ontvangen om 21.11.24-06:00:00 - Totaal dagverbruik: 6351.672852, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6202.257812
+
+Ontvangen om 21.11.24-06:10:00 - Totaal dagverbruik: 6352.436035, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6202.481934
+
+Ontvangen om 21.11.24-06:20:00 - Totaal dagverbruik: 6352.541016, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6202.481934
+
+Ontvangen om 21.11.24-06:30:00 - Totaal dagverbruik: 6352.581055, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6202.481934
+
+Ontvangen om 21.11.24-06:40:00 - Totaal dagverbruik: 6352.637207, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6202.848145
+
+Ontvangen om 21.11.24-06:50:00 - Totaal dagverbruik: 6352.688965, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6203.250977
+
+Ontvangen om 21.11.24-07:00:00 - Totaal dagverbruik: 6352.878906, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6203.400879
+
+Ontvangen om 21.11.24-07:10:00 - Totaal dagverbruik: 6353.646973, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6203.400879
+
+Ontvangen om 21.11.24-07:20:00 - Totaal dagverbruik: 6354.496094, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6203.540039
+
+Ontvangen om 21.11.24-07:30:00 - Totaal dagverbruik: 6354.946777, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6203.625977
+
+Ontvangen om 21.11.24-07:40:00 - Totaal dagverbruik: 6355.029785, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.047852
+
+Ontvangen om 21.11.24-07:50:00 - Totaal dagverbruik: 6355.104980, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.490234
+
+Ontvangen om 21.11.24-08:00:00 - Totaal dagverbruik: 6355.158203, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.490234
+
+Ontvangen om 21.11.24-08:10:00 - Totaal dagverbruik: 6355.191895, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.490234
+
+Ontvangen om 21.11.24-08:20:00 - Totaal dagverbruik: 6355.279785, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.490234
+
+Ontvangen om 21.11.24-08:30:00 - Totaal dagverbruik: 6355.637207, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.490234
+
+Ontvangen om 21.11.24-08:40:00 - Totaal dagverbruik: 6355.785156, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.490234
+
+Ontvangen om 21.11.24-08:50:00 - Totaal dagverbruik: 6355.840820, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.491211
+
+Ontvangen om 21.11.24-09:00:00 - Totaal dagverbruik: 6355.893066, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.491211
+
+Ontvangen om 21.11.24-09:10:00 - Totaal dagverbruik: 6355.939941, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.491211
+
+Ontvangen om 21.11.24-09:20:00 - Totaal dagverbruik: 6356.008789, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.491211
+
+Ontvangen om 21.11.24-09:30:00 - Totaal dagverbruik: 6356.193848, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-09:40:00 - Totaal dagverbruik: 6356.226074, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-09:50:00 - Totaal dagverbruik: 6356.257812, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-10:00:00 - Totaal dagverbruik: 6356.290039, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-10:10:00 - Totaal dagverbruik: 6356.317871, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-10:20:00 - Totaal dagverbruik: 6356.351074, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-10:30:00 - Totaal dagverbruik: 6356.371094, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-10:40:00 - Totaal dagverbruik: 6356.396973, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-10:50:00 - Totaal dagverbruik: 6356.419922, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-11:00:00 - Totaal dagverbruik: 6356.451172, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-11:10:00 - Totaal dagverbruik: 6356.486816, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-11:20:00 - Totaal dagverbruik: 6356.516113, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.730957
+
+Ontvangen om 21.11.24-11:30:00 - Totaal dagverbruik: 6356.555176, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6204.976074
+
+Ontvangen om 21.11.24-11:40:00 - Totaal dagverbruik: 6356.578125, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.442871
+
+Ontvangen om 21.11.24-11:50:00 - Totaal dagverbruik: 6356.597168, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-12:00:00 - Totaal dagverbruik: 6356.626953, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-12:10:00 - Totaal dagverbruik: 6356.642090, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-12:20:00 - Totaal dagverbruik: 6356.654785, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-12:30:00 - Totaal dagverbruik: 6356.666016, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-12:40:00 - Totaal dagverbruik: 6356.675781, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-12:50:00 - Totaal dagverbruik: 6356.694824, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-13:00:00 - Totaal dagverbruik: 6356.695801, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-13:10:00 - Totaal dagverbruik: 6356.704102, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.751007, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6205.560059
+
+Ontvangen om 21.11.24-13:20:00 - Totaal dagverbruik: 6356.704102, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.755005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.150879
+
+Ontvangen om 21.11.24-13:30:00 - Totaal dagverbruik: 6356.704102, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.781006, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.387207
+
+Ontvangen om 21.11.24-13:40:00 - Totaal dagverbruik: 6356.704102, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.804993, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.537109
+
+Ontvangen om 21.11.24-13:50:00 - Totaal dagverbruik: 6356.704102, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.832001, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.537109
+
+Ontvangen om 21.11.24-14:00:00 - Totaal dagverbruik: 6356.704102, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.859985, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.537109
+
+Ontvangen om 21.11.24-14:10:00 - Totaal dagverbruik: 6356.704102, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.877991, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.537109
+
+Ontvangen om 21.11.24-14:20:00 - Totaal dagverbruik: 6356.704102, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.888000, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.537109
+
+Ontvangen om 21.11.24-14:30:00 - Totaal dagverbruik: 6356.705078, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.894989, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.537109
+
+Ontvangen om 21.11.24-14:40:00 - Totaal dagverbruik: 6356.705078, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.915985, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.537109
+
+Ontvangen om 21.11.24-14:50:00 - Totaal dagverbruik: 6356.705078, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.929993, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.537109
+
+Ontvangen om 21.11.24-15:00:00 - Totaal dagverbruik: 6356.706055, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6206.645020
+
+Ontvangen om 21.11.24-15:10:00 - Totaal dagverbruik: 6356.716797, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6207.117188
+
+Ontvangen om 21.11.24-15:20:00 - Totaal dagverbruik: 6356.740234, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6207.424805
+
+Ontvangen om 21.11.24-15:30:00 - Totaal dagverbruik: 6356.751953, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6207.539062
+
+Ontvangen om 21.11.24-15:40:00 - Totaal dagverbruik: 6356.770996, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6207.539062
+
+Ontvangen om 21.11.24-15:50:00 - Totaal dagverbruik: 6356.810059, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6207.539062
+
+Ontvangen om 21.11.24-16:00:00 - Totaal dagverbruik: 6356.841797, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6207.539062
+
+Ontvangen om 21.11.24-16:10:00 - Totaal dagverbruik: 6356.886230, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6207.735840
+
+Ontvangen om 21.11.24-16:20:00 - Totaal dagverbruik: 6357.039062, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6208.226074
+
+Ontvangen om 21.11.24-16:30:00 - Totaal dagverbruik: 6357.871094, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6208.678223
+
+Ontvangen om 21.11.24-16:40:00 - Totaal dagverbruik: 6358.672852, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6208.962891
+
+Ontvangen om 21.11.24-16:50:00 - Totaal dagverbruik: 6359.496094, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6209.106934
+
+Ontvangen om 21.11.24-17:00:00 - Totaal dagverbruik: 6360.334961, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6209.106934
+
+Ontvangen om 21.11.24-17:10:00 - Totaal dagverbruik: 6361.286133, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6209.113770
+
+Ontvangen om 21.11.24-17:20:00 - Totaal dagverbruik: 6362.350098, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6209.606934
+
+Ontvangen om 21.11.24-17:30:00 - Totaal dagverbruik: 6363.312988, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6209.907227
+
+Ontvangen om 21.11.24-17:40:00 - Totaal dagverbruik: 6364.701172, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6209.907227
+
+Ontvangen om 21.11.24-17:50:00 - Totaal dagverbruik: 6365.809082, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6209.907227
+
+Ontvangen om 21.11.24-18:00:00 - Totaal dagverbruik: 6366.991211, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6209.912109
+
+Ontvangen om 21.11.24-18:10:00 - Totaal dagverbruik: 6368.087891, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6210.226074
+
+Ontvangen om 21.11.24-18:20:00 - Totaal dagverbruik: 6368.991211, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6210.451172
+
+Ontvangen om 21.11.24-18:30:00 - Totaal dagverbruik: 6369.494141, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6210.615234
+
+Ontvangen om 21.11.24-18:40:00 - Totaal dagverbruik: 6369.654785, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6210.615234
+
+Ontvangen om 21.11.24-18:50:00 - Totaal dagverbruik: 6369.816895, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6210.615234
+
+Ontvangen om 21.11.24-19:00:00 - Totaal dagverbruik: 6369.938965, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6210.690918
+
+Ontvangen om 21.11.24-19:10:00 - Totaal dagverbruik: 6370.073242, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6211.138184
+
+Ontvangen om 21.11.24-19:20:00 - Totaal dagverbruik: 6370.193848, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6211.149902
+
+Ontvangen om 21.11.24-19:30:00 - Totaal dagverbruik: 6370.434082, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6211.149902
+
+Ontvangen om 21.11.24-19:40:00 - Totaal dagverbruik: 6370.764160, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6211.224121
+
+Ontvangen om 21.11.24-19:50:00 - Totaal dagverbruik: 6371.018066, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6211.752930
+
+Ontvangen om 21.11.24-20:00:00 - Totaal dagverbruik: 6371.184082, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.159180
+
+Ontvangen om 21.11.24-20:10:00 - Totaal dagverbruik: 6371.338867, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.208984
+
+Ontvangen om 21.11.24-20:20:00 - Totaal dagverbruik: 6371.484863, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.208984
+
+Ontvangen om 21.11.24-20:30:00 - Totaal dagverbruik: 6371.622070, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.380859
+
+Ontvangen om 21.11.24-20:40:00 - Totaal dagverbruik: 6371.715820, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.790039
+
+Ontvangen om 21.11.24-20:50:00 - Totaal dagverbruik: 6371.807129, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.832031
+
+Ontvangen om 21.11.24-21:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6690.916992, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.832031
+
+Ontvangen om 21.11.24-21:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6690.993164, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.832031
+
+Ontvangen om 21.11.24-21:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.060059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.832031
+
+Ontvangen om 21.11.24-21:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.124023, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6212.832031
+
+Ontvangen om 21.11.24-21:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.196777, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6213.166992
+
+Ontvangen om 21.11.24-21:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.283203, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6213.687012
+
+Ontvangen om 21.11.24-22:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.383789, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6213.688965
+
+Ontvangen om 21.11.24-22:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.474121, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6213.688965
+
+Ontvangen om 21.11.24-22:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.562012, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6213.688965
+
+Ontvangen om 21.11.24-22:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.633789, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6213.688965
+
+Ontvangen om 21.11.24-22:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.731934, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6213.709961
+
+Ontvangen om 21.11.24-22:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.826172, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.361816
+
+Ontvangen om 21.11.24-23:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.909180, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 21.11.24-23:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6691.981934, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 21.11.24-23:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.060059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 21.11.24-23:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.132812, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 21.11.24-23:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.174805, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 21.11.24-23:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.212891, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-00:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.251953, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-00:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.301758, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-00:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.339844, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-00:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.377930, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-00:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.416016, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-00:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.444824, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-01:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.486816, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-01:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.521973, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-01:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.563965, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.496094
+
+Ontvangen om 22.11.24-01:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.604004, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-01:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.637207, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-01:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.674805, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-02:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6692.738770, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-02:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6693.506836, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-02:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6694.274902, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-02:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6695.044922, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-02:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6695.817871, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-02:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6696.547852, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-03:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6696.591797, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-03:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6697.167969, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-03:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6697.932129, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-03:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6698.694824, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-03:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6699.463867, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-03:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6700.231934, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-04:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6701.008789, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-04:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6701.778809, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-04:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6702.546875, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-04:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6703.312988, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-04:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6704.074219, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.497070
+
+Ontvangen om 22.11.24-04:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6704.838867, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.740234
+
+Ontvangen om 22.11.24-05:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6705.625000, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6214.976074
+
+Ontvangen om 22.11.24-05:10:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6706.412109, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6215.452148
+
+Ontvangen om 22.11.24-05:20:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6707.194824, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6215.790039
+
+Ontvangen om 22.11.24-05:30:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6707.974121, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6215.851074
+
+Ontvangen om 22.11.24-05:40:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6708.755859, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6216.238770
+
+Ontvangen om 22.11.24-05:50:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6709.536133, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6216.609863
+
+Ontvangen om 22.11.24-06:00:00 - Totaal dagverbruik: 6371.898926, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6216.857910
+
+Ontvangen om 22.11.24-06:10:00 - Totaal dagverbruik: 6372.662109, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6216.891113
+
+Ontvangen om 22.11.24-06:20:00 - Totaal dagverbruik: 6373.426758, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6216.891113
+
+Ontvangen om 22.11.24-06:30:00 - Totaal dagverbruik: 6374.200195, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6217.087891
+
+Ontvangen om 22.11.24-06:40:00 - Totaal dagverbruik: 6374.974121, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6217.425781
+
+Ontvangen om 22.11.24-06:50:00 - Totaal dagverbruik: 6375.480957, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6217.466797
+
+Ontvangen om 22.11.24-07:00:00 - Totaal dagverbruik: 6375.520996, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6217.466797
+
+Ontvangen om 22.11.24-07:10:00 - Totaal dagverbruik: 6375.576172, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6217.512207
+
+Ontvangen om 22.11.24-07:20:00 - Totaal dagverbruik: 6375.643066, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6217.997070
+
+Ontvangen om 22.11.24-07:30:00 - Totaal dagverbruik: 6375.687012, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6218.057129
+
+Ontvangen om 22.11.24-07:40:00 - Totaal dagverbruik: 6376.471191, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6218.057129
+
+Ontvangen om 22.11.24-07:50:00 - Totaal dagverbruik: 6377.261230, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6218.195801
+
+Ontvangen om 22.11.24-08:00:00 - Totaal dagverbruik: 6377.355957, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6218.615234
+
+Ontvangen om 22.11.24-08:10:00 - Totaal dagverbruik: 6377.416016, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6218.907227
+
+Ontvangen om 22.11.24-08:20:00 - Totaal dagverbruik: 6377.459961, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6218.921875
+
+Ontvangen om 22.11.24-08:30:00 - Totaal dagverbruik: 6377.523926, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.025879
+
+Ontvangen om 22.11.24-08:40:00 - Totaal dagverbruik: 6377.580078, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-08:50:00 - Totaal dagverbruik: 6377.661133, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-09:00:00 - Totaal dagverbruik: 6377.740234, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.933990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-09:10:00 - Totaal dagverbruik: 6377.755859, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-09:20:00 - Totaal dagverbruik: 6377.793945, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-09:30:00 - Totaal dagverbruik: 6377.807129, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-09:40:00 - Totaal dagverbruik: 6377.826172, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-09:50:00 - Totaal dagverbruik: 6377.942871, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-10:00:00 - Totaal dagverbruik: 6378.017090, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-10:10:00 - Totaal dagverbruik: 6378.109863, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-10:20:00 - Totaal dagverbruik: 6378.232910, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.258789
+
+Ontvangen om 22.11.24-10:30:00 - Totaal dagverbruik: 6378.412109, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.428223
+
+Ontvangen om 22.11.24-10:40:00 - Totaal dagverbruik: 6378.558105, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.574219
+
+Ontvangen om 22.11.24-10:50:00 - Totaal dagverbruik: 6378.634766, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6219.622070
+
+Ontvangen om 22.11.24-11:00:00 - Totaal dagverbruik: 6378.687012, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.013184
+
+Ontvangen om 22.11.24-11:10:00 - Totaal dagverbruik: 6378.745117, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.469238
+
+Ontvangen om 22.11.24-11:20:00 - Totaal dagverbruik: 6378.799805, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.936005, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.507812
+
+Ontvangen om 22.11.24-11:30:00 - Totaal dagverbruik: 6378.826172, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.963013, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.507812
+
+Ontvangen om 22.11.24-11:40:00 - Totaal dagverbruik: 6378.854004, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.967987, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.507812
+
+Ontvangen om 22.11.24-11:50:00 - Totaal dagverbruik: 6378.913086, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.973999, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.507812
+
+Ontvangen om 22.11.24-12:00:00 - Totaal dagverbruik: 6378.942871, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.984985, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.507812
+
+Ontvangen om 22.11.24-12:10:00 - Totaal dagverbruik: 6379.000977, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.984985, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.507812
+
+Ontvangen om 22.11.24-12:20:00 - Totaal dagverbruik: 6379.062012, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 299.984985, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.507812
+
+Ontvangen om 22.11.24-12:30:00 - Totaal dagverbruik: 6379.074219, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.006012, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.507812
+
+Ontvangen om 22.11.24-12:40:00 - Totaal dagverbruik: 6379.076172, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.032013, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6220.814941
+
+Ontvangen om 22.11.24-12:50:00 - Totaal dagverbruik: 6379.092773, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.035004, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.272949
+
+Ontvangen om 22.11.24-13:00:00 - Totaal dagverbruik: 6379.192871, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.058014, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.297852
+
+Ontvangen om 22.11.24-13:10:00 - Totaal dagverbruik: 6379.201172, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.127991, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.297852
+
+Ontvangen om 22.11.24-13:20:00 - Totaal dagverbruik: 6379.269043, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.139008, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.297852
+
+Ontvangen om 22.11.24-13:30:00 - Totaal dagverbruik: 6379.331055, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.148987, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.297852
+
+Ontvangen om 22.11.24-13:40:00 - Totaal dagverbruik: 6379.331055, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.197998, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.297852
+
+Ontvangen om 22.11.24-13:50:00 - Totaal dagverbruik: 6379.331055, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.253998, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.297852
+
+Ontvangen om 22.11.24-14:00:00 - Totaal dagverbruik: 6379.336914, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.259003, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.297852
+
+Ontvangen om 22.11.24-14:10:00 - Totaal dagverbruik: 6379.538086, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.259003, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.419922
+
+Ontvangen om 22.11.24-14:20:00 - Totaal dagverbruik: 6379.569824, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.266998, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.590820
+
+Ontvangen om 22.11.24-14:30:00 - Totaal dagverbruik: 6379.578125, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.345001, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6221.995117
+
+Ontvangen om 22.11.24-14:40:00 - Totaal dagverbruik: 6379.578125, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.451996, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.012207
+
+Ontvangen om 22.11.24-14:50:00 - Totaal dagverbruik: 6379.578125, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.558990, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.012207
+
+Ontvangen om 22.11.24-15:00:00 - Totaal dagverbruik: 6379.581055, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.012207
+
+Ontvangen om 22.11.24-15:10:00 - Totaal dagverbruik: 6379.611816, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.012207
+
+Ontvangen om 22.11.24-15:20:00 - Totaal dagverbruik: 6379.650879, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.013184
+
+Ontvangen om 22.11.24-15:30:00 - Totaal dagverbruik: 6379.750000, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.013184
+
+Ontvangen om 22.11.24-15:40:00 - Totaal dagverbruik: 6379.852051, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.013184
+
+Ontvangen om 22.11.24-15:50:00 - Totaal dagverbruik: 6379.918945, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.013184
+
+Ontvangen om 22.11.24-16:00:00 - Totaal dagverbruik: 6379.972168, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.013184
+
+Ontvangen om 22.11.24-16:10:00 - Totaal dagverbruik: 6380.011230, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.230957
+
+Ontvangen om 22.11.24-16:20:00 - Totaal dagverbruik: 6380.067871, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.513184
+
+Ontvangen om 22.11.24-16:30:00 - Totaal dagverbruik: 6380.183105, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.529785
+
+Ontvangen om 22.11.24-16:40:00 - Totaal dagverbruik: 6380.341797, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6222.937988
+
+Ontvangen om 22.11.24-16:50:00 - Totaal dagverbruik: 6380.519043, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.232910
+
+Ontvangen om 22.11.24-17:00:00 - Totaal dagverbruik: 6380.700195, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.232910
+
+Ontvangen om 22.11.24-17:10:00 - Totaal dagverbruik: 6380.892090, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.232910
+
+Ontvangen om 22.11.24-17:20:00 - Totaal dagverbruik: 6381.095215, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.232910
+
+Ontvangen om 22.11.24-17:30:00 - Totaal dagverbruik: 6381.312988, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.362793
+
+Ontvangen om 22.11.24-17:40:00 - Totaal dagverbruik: 6381.525879, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.711914
+
+Ontvangen om 22.11.24-17:50:00 - Totaal dagverbruik: 6381.744141, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.908203
+
+Ontvangen om 22.11.24-18:00:00 - Totaal dagverbruik: 6381.977051, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.916016
+
+Ontvangen om 22.11.24-18:10:00 - Totaal dagverbruik: 6382.189941, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.916016
+
+Ontvangen om 22.11.24-18:20:00 - Totaal dagverbruik: 6382.707031, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6223.916016
+
+Ontvangen om 22.11.24-18:30:00 - Totaal dagverbruik: 6383.183105, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.048828
+
+Ontvangen om 22.11.24-18:40:00 - Totaal dagverbruik: 6383.399902, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.490234
+
+Ontvangen om 22.11.24-18:50:00 - Totaal dagverbruik: 6383.522949, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-19:00:00 - Totaal dagverbruik: 6383.632812, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-19:10:00 - Totaal dagverbruik: 6383.747070, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-19:20:00 - Totaal dagverbruik: 6383.874023, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-19:30:00 - Totaal dagverbruik: 6384.002930, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-19:40:00 - Totaal dagverbruik: 6384.162109, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-19:50:00 - Totaal dagverbruik: 6384.325195, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-20:00:00 - Totaal dagverbruik: 6384.485840, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-20:10:00 - Totaal dagverbruik: 6384.619141, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-20:20:00 - Totaal dagverbruik: 6384.756836, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.570801
+
+Ontvangen om 22.11.24-20:30:00 - Totaal dagverbruik: 6384.911133, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.690918
+
+Ontvangen om 22.11.24-20:40:00 - Totaal dagverbruik: 6385.331055, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.842773
+
+Ontvangen om 22.11.24-20:50:00 - Totaal dagverbruik: 6385.459961, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6224.842773
+
+Ontvangen om 22.11.24-21:00:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.310059, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.078125
+
+Ontvangen om 22.11.24-21:10:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.407227, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.527832
+
+Ontvangen om 22.11.24-21:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.517090, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-21:30:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.625977, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-21:40:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.716797, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-21:50:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.788086, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:00:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6710.858887, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.627930
+
+Ontvangen om 22.11.24-22:10:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.237793, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.855957
+
+Ontvangen om 22.11.24-22:20:00 - Totaal dagverbruik: 6385.592773, Totaal nachtverbruik: 6711.523926, Totale dagopbrengst: 300.584015, Totale nachtopbrengst: 146.751999, Totaal gasverbruik: 6225.891113
+
+Ontvangen om 00.00.00-00:00:00 - Totaal dagverbruik: 0000, Totaal nachtverbruik: 000000, Totale dagopbrengst: 0000.000000, Totale nachtopbrengst: 000.000000, Totaal gasverbruik: 0.000000
+
