@@ -1,3 +1,12 @@
+int StartDagVerbruik;
+int StartNachtVerbruik;
+int StartDagOpbrengst;
+int StartNachtOpbrengst;
+char StartTijd;
+int StartGas;
+int dag;
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -10,14 +19,12 @@
 #define CLIENTID          "Flandrien"
 #define SUB_TOPIC         "P1/MD8"
 #define PUB_TOPIC         "VIZO/ERROR_SEND"
-#define TOPIC_LEN         120
+#define TOPIC_LEN         1200
 #define TIMEOUT           100L
+#define ERR_OUT_LEN       2000
 
-//Verander deze waarde na hoeveel berichten je een verslag wilt
-#define UITSLAG_NA        5000
 
-#define ERR_OUT_LEN       1024
-
+  
 
 
 volatile MQTTClient_deliveryToken deliveredtoken;
@@ -35,10 +42,10 @@ void delivered(void *context, MQTTClient_deliveryToken dt) {
     deliveredtoken = dt;
 }
 
+
+
 int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *message) {
 
-    int StartDagVerbruik = 0;
-    int StartTijd = 0;
 
     char *payload = message->payload;
     char *token_str;
@@ -70,56 +77,68 @@ int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *m
 
     // Get the current time and format it
     get_current_time_str(time_buffer, sizeof(time_buffer));
+    //Neerschrijven in file
+    char loging[ERR_OUT_LEN];
+    sprintf(loging, "Ontvangen om %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
 
-    // Print incoming message details to terminal on the same line
-    // printf("Ontvangen om %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
-
-    char error_out[ERR_OUT_LEN];
-    sprintf(error_out, "Ontvangen om %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
-    
-    log_to_file(error_out);
-
-    // Publish the processed message on PUB_TOPIC
-    //MQTTClient client = (MQTTClient)context;
-    //MQTTClient_message pubmsg = MQTTClient_message_initializer;
-   // MQTTClient_deliveryToken token;
-
-   // pubmsg.payload = error_out;
-    //pubmsg.payloadlen = strlen(error_out);
-    //pubmsg.qos = QOS;
-    //pubmsg.retained = 0;
-
-    //MQTTClient_publishMessage(client, PUB_TOPIC, &pubmsg, &token);
-    // printf("Publishing to topic %s\n", PUB_TOPIC);
-
+    log_to_file(loging);
 
     message_count++;
-    printf("hoeveelste bericht: %d\n",message_count);
     
     if (message_count == 1)
     {
         
-        int StartTijd = atoi(datum_tijd_gas);
-        int StartDagVerbruik = atoi(totaal_dagverbruik);
-        int StartDagOpbrengst = atoi(totaal_dagopbrengst);
-        int StartNachtVerbruik = atoi(totaal_nachtverbruik);
-        int StartNachtOpbrengst = atoi(totaal_nachtopbrengst);
-        //int StartGas = atoi(totaal_gasverbruik);
-        printf("Tijd is %d\n", StartTijd);
+        StartTijd = atoi(datum_tijd_gas);
+        StartDagVerbruik = atoi(totaal_dagverbruik);
+        StartDagOpbrengst = atoi(totaal_dagopbrengst);
+        StartNachtVerbruik = atoi(totaal_nachtverbruik);
+        StartNachtOpbrengst = atoi(totaal_nachtopbrengst);
+        //StartGas = atoi(totaal_gasverbruik);
+        return(StartTijd, StartDagVerbruik);
+        dag = atoi(datum_tijd_gas);
     }
 
      int stop = atoi(tarief_indicator);
      // printf("stop: %d\n",stop);
 
+       if (dag == dag1
+    {
+        
+        StartTijd = atoi(datum_tijd_gas);
+        StartDagVerbruik = atoi(totaal_dagverbruik);
+        StartDagOpbrengst = atoi(totaal_dagopbrengst);
+        StartNachtVerbruik = atoi(totaal_nachtverbruik);
+        StartNachtOpbrengst = atoi(totaal_nachtopbrengst);
+        //StartGas = atoi(totaal_gasverbruik);
+        return(StartTijd, StartDagVerbruik);
+        dag = atoi(datum_tijd_gas);
+    }
+    
+     
+
+    
+
+
     if (stop == 0) {
         printf("=====================================================\n");
         printf("+ Electriciteit- en gas verbruik - totalen per dag  +\n");
         printf("=====================================================\n");
-        printf("Startwaarden:          ");
+        printf("Startwaarden:\n\n");
         printf("Datum - Tijd: %d\n", StartTijd);
         printf("Dag     Totaal verbruik     = %d kWh\n", StartDagVerbruik);
+        printf("Dag     Totaal opbrengst    = %d kWh\n", StartDagOpbrengst);
+        printf("Nacht   Totaal verbruik     = %d kWh\n", StartNachtVerbruik);
+        printf("Nacht   Totaal opbrengst    = %d kWh\n", StartNachtOpbrengst);
+        //printf("Gas     Totaal verbruik     = %d m3",StartGas)
+        printf("-------------------------------------------------------------\n");
+        printf("Totalen\n");
+        printf("-------------------------------------------------------------\n");
+        //printf("%d\n",daglog);
+        printf("=====================================================\n");
+        printf("+++++++++++++++Einde van dit rappot++++++++++++++++++\n");
+        printf("=====================================================\n");
         fflush(stdout);
-        return -1;
+        return(-1);
     }
 
     //MQTTClient_freeMessage(&message);
