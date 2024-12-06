@@ -7,7 +7,7 @@
 
 #define ADDRESS           "tcp://192.168.0.108:1883"
 #define QOS               0
-#define CLIENTID          "FLANDRIEN"
+#define CLIENTID          "Flandrien"
 #define SUB_TOPIC         "P1/MD8"
 #define PUB_TOPIC         "VIZO/ERROR_SEND"
 #define TOPIC_LEN         120
@@ -17,6 +17,8 @@
 #define UITSLAG_NA        5000
 
 #define ERR_OUT_LEN       1024
+
+
 
 volatile MQTTClient_deliveryToken deliveredtoken;
 volatile int message_count = 0;
@@ -34,6 +36,10 @@ void delivered(void *context, MQTTClient_deliveryToken dt) {
 }
 
 int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *message) {
+
+    int StartDagVerbruik = 0;
+    int StartTijd = 0;
+
     char *payload = message->payload;
     char *token_str;
     char time_buffer[20];
@@ -66,39 +72,58 @@ int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *m
     get_current_time_str(time_buffer, sizeof(time_buffer));
 
     // Print incoming message details to terminal on the same line
-    printf("Ontvangen om %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
+    // printf("Ontvangen om %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
 
     char error_out[ERR_OUT_LEN];
-    sprintf(error_out, "%s Device: %s, Code: %s, Data: %Lf", time_buffer, totaal_dagopbrengst, totaal_dagverbruik, totaal_gasverbruik);
+    sprintf(error_out, "Ontvangen om %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
     
     log_to_file(error_out);
 
     // Publish the processed message on PUB_TOPIC
-    MQTTClient client = (MQTTClient)context;
-    MQTTClient_message pubmsg = MQTTClient_message_initializer;
-    MQTTClient_deliveryToken token;
+    //MQTTClient client = (MQTTClient)context;
+    //MQTTClient_message pubmsg = MQTTClient_message_initializer;
+   // MQTTClient_deliveryToken token;
 
-    pubmsg.payload = error_out;
-    pubmsg.payloadlen = strlen(error_out);
-    pubmsg.qos = QOS;
-    pubmsg.retained = 0;
+   // pubmsg.payload = error_out;
+    //pubmsg.payloadlen = strlen(error_out);
+    //pubmsg.qos = QOS;
+    //pubmsg.retained = 0;
 
-    MQTTClient_publishMessage(client, PUB_TOPIC, &pubmsg, &token);
-    printf("Publishing to topic %s\n", PUB_TOPIC);
+    //MQTTClient_publishMessage(client, PUB_TOPIC, &pubmsg, &token);
+    // printf("Publishing to topic %s\n", PUB_TOPIC);
+
+
+    message_count++;
+    printf("hoeveelste bericht: %d\n",message_count);
+    
+    if (message_count == 1)
+    {
+        
+        int StartTijd = atoi(datum_tijd_gas);
+        int StartDagVerbruik = atoi(totaal_dagverbruik);
+        int StartDagOpbrengst = atoi(totaal_dagopbrengst);
+        int StartNachtVerbruik = atoi(totaal_nachtverbruik);
+        int StartNachtOpbrengst = atoi(totaal_nachtopbrengst);
+        //int StartGas = atoi(totaal_gasverbruik);
+        printf("Tijd is %d\n", StartTijd);
+    }
 
      int stop = atoi(tarief_indicator);
-     printf("stop: %d\n",stop);
+     // printf("stop: %d\n",stop);
 
     if (stop == 0) {
         printf("=====================================================\n");
-        printf("Electriciteit- en gas verbruik - totalen per dag\n");
-        printf("=====================================================\n\n");
-        printf("Startwaarden:");
-        return 0;
+        printf("+ Electriciteit- en gas verbruik - totalen per dag  +\n");
+        printf("=====================================================\n");
+        printf("Startwaarden:          ");
+        printf("Datum - Tijd: %d\n", StartTijd);
+        printf("Dag     Totaal verbruik     = %d kWh\n", StartDagVerbruik);
+        fflush(stdout);
+        return -1;
     }
 
-    MQTTClient_freeMessage(&message);
-    MQTTClient_free(topicName);
+    //MQTTClient_freeMessage(&message);
+    //MQTTClient_free(topicName);
 
     return 1;
 }
