@@ -4,6 +4,7 @@
 #include <time.h>
 #include "MQTTClient.h"
 
+
 #define ADDRESS           "tcp://192.168.0.108:1883"
 #define QOS               0
 #define CLIENTID          "FLANDRIEN"
@@ -65,7 +66,7 @@ int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *m
     get_current_time_str(time_buffer, sizeof(time_buffer));
 
     // Print incoming message details to terminal on the same line
-    printf("Received message at %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
+    printf("Ontvangen om %s - Totaal dagverbruik: %s, Totaal nachtverbruik: %s, Totale dagopbrengst: %s, Totale nachtopbrengst: %s, Totaal gasverbruik: %Lf\n", datum_tijd_stroom, totaal_dagverbruik, totaal_nachtverbruik, totaal_dagopbrengst, totaal_nachtopbrengst, totaal_gasverbruik);
 
     char error_out[ERR_OUT_LEN];
     sprintf(error_out, "%s Device: %s, Code: %s, Data: %Lf", time_buffer, totaal_dagopbrengst, totaal_dagverbruik, totaal_gasverbruik);
@@ -85,29 +86,15 @@ int msgarrvd(void *context, char *topicName, int topicLen, MQTTClient_message *m
     MQTTClient_publishMessage(client, PUB_TOPIC, &pubmsg, &token);
     printf("Publishing to topic %s\n", PUB_TOPIC);
 
-    if (tarief_indicator == "0") {
-        long double avg_data = sum_data / message_count;
-        sprintf(error_out, "Summary - Avg: %Lf, Max: %Lf, Min: %Lf", avg_data, max_data, min_data);
-        
-        printf("-------------------------\n");
-        printf("Gem data waarde: %Lf\n", avg_data);
-        printf("Max data waarde: %Lf\n", max_data);
-        printf("Min data waarde: %Lf\n", min_data);
-        printf("-------------------------\n");
+     int stop = atoi(tarief_indicator);
+     printf("stop: %d\n",stop);
 
-        MQTTClient_message pubmsg_summary = MQTTClient_message_initializer;
-
-        pubmsg_summary.payload = error_out;
-        pubmsg_summary.payloadlen = strlen(error_out);
-        pubmsg_summary.qos = QOS;
-        pubmsg_summary.retained = 0;
-
-        MQTTClient_publishMessage(client, PUB_TOPIC, &pubmsg_summary, &token);
-
-        message_count = 0;
-        sum_data = 0;
-        max_data = -__LDBL_MAX__;
-        min_data = __LDBL_MAX__;
+    if (stop == 0) {
+        printf("=====================================================\n");
+        printf("Electriciteit- en gas verbruik - totalen per dag\n");
+        printf("=====================================================\n\n");
+        printf("Startwaarden:");
+        return 0;
     }
 
     MQTTClient_freeMessage(&message);
